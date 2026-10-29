@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [1678-goal-parser-interpretation](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
