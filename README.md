@@ -11,10 +11,12 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -23,9 +25,15 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
