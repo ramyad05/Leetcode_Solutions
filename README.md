@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ramyad05/Leetcode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -21,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ramyad05/Leetcode_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
